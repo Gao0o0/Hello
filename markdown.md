@@ -10,21 +10,21 @@ __加粗2(双下划线)__
 + 一
 + 二
 * 三
-  * 四
+  * 四
 #### 有序列表1
 1. 一一
 2. 二二
 3. 三三
 #### 有序列表2
 1. 一一
-  1. yyy
+  1. yyy
 2. 二二
-  2. eee
+  2. eee
 3. 三三
 3. sss
-  * jkjkjkhh31
-  * k;l;32
-    * rrr
+  * jkjkjkhh31
+  * k;l;32
+    * rrr
  ### 例
 1. Make my changes
   1. Fix bug
