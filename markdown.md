@@ -17,30 +17,11 @@ __加粗2(双下划线)__
 3. 三三
 #### 有序列表2
 1. 一一
-  1. yyy
+  1.1 yyy
 2. 二二
-  2. eee
+  2.1 eee
 3. 三三
-3. sss
+ 3.1 sss
   * jkjkjkhh31
   * k;l;32
     * rrr
- ### 例
-1. Make my changes
-  1. Fix bug
-  2. Improve formatting
-    * Make the headings bigger
-2. Push my commits to GitHub
-3. Open a pull request
-  * Describe my changes
-  * Mention all the members of my team
-    * Ask for feedback
- ### 例
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-~~This text will be delete~~
-_You **can** combine them_
