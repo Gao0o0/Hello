@@ -6,3 +6,14 @@
 [百度一下](https://www.baidu.com) 
 ---
 ![Image of cat](https://github.com/Gao0o0/Hello/blob/master/cat.jpeg)
+```c
+#include <stdio.h>
+int main(void){
+  printf("H");
+  return 0;
+}
+```
+标题|内容|时间
+-----|-----|-----|
+今天下雨|今天下小雨|2017.6.15
+明天晴|明天天气晴|2017.6.16
