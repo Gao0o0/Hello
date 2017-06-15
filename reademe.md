@@ -6,8 +6,6 @@
 [百度一下](https://www.baidu.com) 
 ---
 ![Image of cat](https://github.com/Gao0o0/Hello/blob/master/cat.jpeg)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```c
 #include <stdio.h>
 int main(void){
